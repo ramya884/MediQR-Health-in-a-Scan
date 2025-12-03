@@ -1,0 +1,1 @@
+# MediQR-Health-in-a-Scan
